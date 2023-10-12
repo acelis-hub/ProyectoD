@@ -15,3 +15,5 @@
 
 ## Technologies
 afadf
+
+![Image text](boceto.png)
